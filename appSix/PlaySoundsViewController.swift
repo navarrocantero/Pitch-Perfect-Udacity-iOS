@@ -9,7 +9,7 @@
 import UIKit
 import AVFoundation
 
-class playsoundsviewcontroller: UIViewController {
+class PlaySoundsViewController: UIViewController {
 
     var recordedAudioURL:URL!
 
