@@ -81,7 +81,7 @@
             </objects>
             <point key="canvasLocation" x="-1004" y="54.422788605697157"/>
         </scene>
-        <!--Playsoundsviewcontroller-->
+        <!--Play Sounds View Controller-->
         <scene sceneID="war-1S-beN">
             <objects>
                 <viewController id="uEw-Ii-Lfk" customClass="PlaySoundsViewController" customModule="appSix" customModuleProvider="target" sceneMemberID="viewController">
